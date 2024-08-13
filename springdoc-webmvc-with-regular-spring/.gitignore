@@ -1,2 +1,5 @@
 # Project exclude paths
 /target/
+/apache-tomcat-10.1.24.zip
+/apache-tomcat-10.1.24/
+/.idea/

@@ -5,8 +5,8 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.testing</groupId>
-    <artifactId>springdoc-webmvc-war</artifactId>
-    <name>springdoc-webmvc-war</name>
+    <artifactId>springdoc-webmvc</artifactId>
+    <name>springdoc-webmvc</name>
 
     <packaging>war</packaging>
 
@@ -21,7 +21,7 @@
         <springdoc-openapi-starter-webmvc-ui.version>2.2.0</springdoc-openapi-starter-webmvc-ui.version>
     </properties>
 
-    <version>0.0</version>
+    <version>1.0</version>
 
     <repositories>
         <repository>
